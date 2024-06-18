@@ -38,7 +38,7 @@ Setup Instructions
 API Endpoints
 
 1. http://127.0.0.1:8000/
-![Dashboard](https://github.com/abynxv/Authentication-DjangoAllauth/assets/154351820/55f35c43-3c0c-4bad-9865-d4124aed5708)
+![Dashboard](https://github.com/abynxv/Authentication-DjangoAllauth/assets/154351820/0b12bcc5-358d-4e53-947b-1bd7a0565770)
 2.http://127.0.0.1:8000/accounts/login/
 ![Signin](https://github.com/abynxv/Authentication-DjangoAllauth/assets/154351820/e98ee628-1d9f-4f0a-8ee6-d2cfa858d243)
 3.http://127.0.0.1:8000/accounts/signup/
